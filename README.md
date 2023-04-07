@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development. 
 - 🌱 I’m a Freelance Front End Web Developer (HTML5, CSS3, JavaScript [ES6]) at freelancer.in. 
 - 💞️ I’m looking to collaborate on Front End Development Projects. 
+- Currently I am studying PHP Tutorials from W3Schools.com.
 - 📫 You can reach me via email- jayantjimmy49@gmail.com or my linkedin profile- linkedin.com/in/jimmy-jayant-8b79b61a9
 
 <!---
